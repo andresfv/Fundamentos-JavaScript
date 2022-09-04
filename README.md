@@ -1,0 +1,1 @@
+Proyecto en donde se muestran carácterisiticas basicas de Javascript.
